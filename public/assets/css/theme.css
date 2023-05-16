@@ -22068,7 +22068,11 @@ iframe.yt-video.loaded {
   padding: 0;
   list-style: none;
 }
-
+.lin-1{
+  font-size: 13.5px !important; 
+  
+ 
+ }
 .lin-1:hover{
  color:orange !important
  
