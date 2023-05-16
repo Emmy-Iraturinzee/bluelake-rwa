@@ -21245,6 +21245,9 @@ html[dir=rtl] .googlemap .gm-style-iw.gm-style-iw-c button[title=Close] {
   right: -10%;
   top: 2.5rem;
 }
+/* bottom menu */
+
+/* end of bottom menu */
 
 .showcase-page-gradient {
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(163, 20, 20, 0.5)), to(rgba(27, 27, 27, 0.5)));
@@ -22066,6 +22069,12 @@ iframe.yt-video.loaded {
   list-style: none;
 }
 
+.lin-1:hover{
+ color:orange !important
+ 
+
+}
+
 .widget-list-link {
   display: block;
   -webkit-transition: color 0.25s ease-in-out;
@@ -22074,10 +22083,12 @@ iframe.yt-video.loaded {
   color: #93AFB6;
   font-size: 0.875rem;
   font-weight: normal;
+  cursor: pointer;
 }
 .widget-list-link:hover, .widget-list-link:focus {
   text-decoration: none;
   color: #CDD8DA;
+ 
 }
 
 .social-icons {
